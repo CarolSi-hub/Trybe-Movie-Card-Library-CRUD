@@ -3,6 +3,8 @@
 ## https://movie-card-library.vercel.app/
 ---
 
+<img src="./crud.png" width=500px />
+
 The acronym ** CRUD ** stands for, _Create, Read, Update and Delete_, so it should be possible to perform the following operations on this project:
 
    - Add a new movie to the list - ** CREATE **;
